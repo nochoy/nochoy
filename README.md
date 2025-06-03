@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&fontSize=80&fontAlignY=40&animation=twinkling&text=Hi%20there%20👋&descSize=30&desc=I'm%20Norton" />
 
 
 # 💻 Tech Stack:
