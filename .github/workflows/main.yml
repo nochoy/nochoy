@@ -27,7 +27,7 @@ jobs:
             tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
             gnuplot, perl
           plugin_languages_other: yes
-          plugin_languages_colors: complementary
+          plugin_languages_colors: github
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.languages.details.svg
