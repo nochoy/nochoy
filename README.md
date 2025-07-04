@@ -24,7 +24,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nochoy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&hide=stars&show_icons=true&rank_icon=github)
 ![](https://nirzak-streak-stats.vercel.app/?user=nochoy&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nochoy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <img src="/metrics.plugin.languages.details.svg" alt="Metrics" width="50%">
 
